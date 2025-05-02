@@ -18,7 +18,7 @@ Collection of GUI tools, built with Streamlit, to create and interact with finit
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/finite-automata-toolkit.git
+   git clone https://github.com/emberfox205/finite-automata-toolkit.git
    cd finite-automata-toolkit
    ```
 
